@@ -16,14 +16,14 @@ client:
   about_markdown: |
 
   market: Utah
-  brand:
+  brand: McKay Realty
   brokerage:
-  address:
-  phone:
+  address: 12272 S 800 E Ste D Draper, UT 84020
+  phone: 385-441-7048
   phone_type:
   phone2:
   phone2_type:
-  email:
+  email: jobs@utahhomesgroup.com
   url:
 
 sidebar_CTA:
